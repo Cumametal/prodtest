@@ -1,0 +1,43 @@
+STATUS
+
+Actividad sin comenzar
+Actividad en fila
+Actividad en proceso
+Actividad por finalizar
+Actividad finalizada
+
+VARIABLES
+
+Orden_compra
+Orden_trabajo
+Cliente
+Usuario
+Num_parte
+Descripción
+Comentarios
+
+
+DATOS
+
+MP
+PROG_CNC
+FRESADO_CNC
+FRESADO
+TORNEADO
+TORNEADO_CNC
+TRATAMIENTO_TERM
+RECUBRIMIENTO
+RECTIFICADO_PLANO
+RECTIFICADO_CILINDRICO
+REBABEO-PULIDO
+LIBERACION
+INSPECCION
+WEDM
+EDM
+ENVIO
+RETRABAJO
+CHAPA_METALICA
+SOLDADURA
+DISEÑO
+ENSAMBLE
+
